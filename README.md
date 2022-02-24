@@ -18,7 +18,7 @@ Preprocessed dataset can be downloaded from
 
 > **Install package from the source**
 
-* Package source file can be downloaded from [here](http://centromics.org/info/142sup/mainFunctions.R)
+* Package source file can be downloaded from [here](https://github.com/malcogene/hCSE/blob/main/R/main_Function.R)
 
 
 ----
